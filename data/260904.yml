@@ -7,7 +7,7 @@ about:
   head: 71d6bd6
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:22:48Z
+  collectedAt: 2026-09-04T21:10:35Z
 timeline:
   created: 2020-08-08
   lastCommit: 2023-05-18
@@ -80,6 +80,44 @@ total:
   openIssue: 0
   commit: 126
 ---
+path: /home/runner/.x-repo/github.com/yamafaktory/craftql
+collectedAt: 2026-09-04T21:10:36Z
+loc:
+  Rust:
+    code: 1346
+    comments: 70
+    blanks: 176
+    files: 7
+  Svg:
+    code: 457
+    comments: 85
+    blanks: 0
+    files: 1
+  Graphql:
+    code: 126
+    comments: 59
+    blanks: 0
+    files: 20
+  Toml:
+    code: 33
+    comments: 0
+    blanks: 5
+    files: 2
+  Markdown:
+    code: 0
+    comments: 272
+    blanks: 54
+    files: 1
+  Text:
+    code: 0
+    comments: 1
+    blanks: 0
+    files: 1
+total:
+  code: 1962
+  comments: 572
+  blanks: 236
+  files: 32
 ---
 date: "2026-08-24"
 repo:
